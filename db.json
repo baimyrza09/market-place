@@ -1,0 +1,244 @@
+{
+  "products": [
+    {
+      "title": "Брюки",
+      "price": "2154",
+      "description": "Брюки карго зимние утепленные",
+      "img": "https://images.wbstatic.net/big/new/15120000/15129069-1.jpg",
+      "gender": "man",
+      "type": "trousers",
+      "comments": [
+        {
+          "name": "baimyrza beishenaliev",
+          "comment": "effrqertw"
+        },
+        {
+          "name": "Muras",
+          "comment": "asdfasd"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "title": "Джоггеры",
+      "description": "Джоггеры зимние утепленные",
+      "price": "2154",
+      "img": "https://images.wbstatic.net/big/new/16300000/16303825-1.jpg",
+      "gender": "man",
+      "type": "trousers",
+      "comments": [
+        {
+          "name": "Muras",
+          "comment": "Супер"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "title": "Брюки",
+      "description": "домашние штаны мужские",
+      "price": "1261",
+      "img": "https://images.wbstatic.net/big/new/7760000/7761570-1.jpg",
+      "gender": "man",
+      "type": "trousers",
+      "comments": [],
+      "id": 3
+    },
+    {
+      "title": "Брюки",
+      "description": "домашняя одежда для мужчин",
+      "price": "1622",
+      "img": "https://images.wbstatic.net/big/new/17910000/17915271-1.jpg",
+      "gender": "man",
+      "type": "trousers",
+      "comments": [],
+      "id": 4
+    },
+    {
+      "title": "Брюки",
+      "description": "Спортивные брюки",
+      "price": "1175",
+      "img": "https://images.wbstatic.net/big/new/13870000/13878196-1.jpg",
+      "gender": "man",
+      "type": "trousers",
+      "comments": [],
+      "id": 5
+    },
+    {
+      "title": "Брюки",
+      "img": "https://images.wbstatic.net/big/new/16060000/16067661-1.jpg",
+      "description": "Спортивные брюки",
+      "price": "878",
+      "gender": "man",
+      "type": "trousers",
+      "comments": [],
+      "id": 6
+    },
+    {
+      "title": "Куртка",
+      "description": "Парка мужская зимняя",
+      "price": "3168",
+      "img": "https://images.wbstatic.net/big/new/13710000/13716558-1.jpg",
+      "gender": "man",
+      "type": "jackets",
+      "comments": [],
+      "id": 7
+    },
+    {
+      "title": "Куртка",
+      "description": "Парка мужская зимняя",
+      "price": "3272",
+      "img": "https://images.wbstatic.net/big/new/13760000/13765966-1.jpg",
+      "id": 8,
+      "gender": "man",
+      "type": "jackets",
+      "comments": []
+    },
+    {
+      "title": "Куртка",
+      "description": " Парка",
+      "price": "4109",
+      "img": "https://images.wbstatic.net/big/new/7090000/7092290-1.jpg",
+      "gender": "man",
+      "type": "jackets",
+      "comments": [],
+      "id": 9
+    },
+    {
+      "price": "1166",
+      "description": "Рубашка EASY IRON",
+      "title": "Рубашка",
+      "img": "https://images.wbstatic.net/big/new/8550000/8550041-1.jpg",
+      "gender": "man",
+      "type": "shirts",
+      "comments": [],
+      "id": 10
+    },
+    {
+      "title": "Брюки",
+      "comments": [
+        {
+          "name": "Muras",
+          "comment": "ыфва"
+        }
+      ],
+      "description": "Кожаные штаны с начесом",
+      "price": "1709",
+      "img": "https://images.wbstatic.net/big/new/15610000/15616927-1.jpg",
+      "gender": "woman",
+      "type": "trousers",
+      "id": 11
+    },
+    {
+      "title": "Джинсы",
+      "description": "Джинсы баллоны",
+      "price": "2247",
+      "img": "https://images.wbstatic.net/big/new/15200000/15200025-1.jpg",
+      "comments": [],
+      "id": 12,
+      "gender": "woman",
+      "type": "trousers"
+    },
+    {
+      "title": "Джинсы",
+      "comments": [],
+      "description": "Джинсы-бананы ",
+      "price": "1896",
+      "img": "https://images.wbstatic.net/big/new/15200000/15200026-1.jpg",
+      "gender": "woman",
+      "type": "trousers",
+      "id": 13
+    },
+    {
+      "title": "Рубашка",
+      "comments": [],
+      "description": "Боди блузка",
+      "img": "https://images.wbstatic.net/big/new/8940000/8944425-1.jpg",
+      "price": "1807",
+      "gender": "woman",
+      "type": "shirts",
+      "id": 14
+    },
+    {
+      "title": "Рубашка",
+      "description": "Рубашка oversize",
+      "price": "1893",
+      "img": "https://images.wbstatic.net/big/new/12330000/12333579-1.jpg",
+      "comments": [],
+      "id": 15,
+      "gender": "woman",
+      "type": "shirts"
+    },
+    {
+      "title": "Куртка",
+      "comments": [
+        {
+          "name": "Muras",
+          "comment": "sdfg"
+        },
+        {
+          "name": "Muras",
+          "comment": "asdf"
+        }
+      ],
+      "description": "Mango / Куртка - TOKYO",
+      "price": "8181",
+      "img": "https://images.wbstatic.net/big/new/14680000/14684588-1.jpg",
+      "gender": "woman",
+      "type": "jackets",
+      "id": 17
+    },
+    {
+      "title": "Куртка",
+      "comments": [],
+      "description": "Mango / Куртка - TOKYO",
+      "price": "8181",
+      "img": "https://images.wbstatic.net/big/new/14330000/14331269-1.jpg",
+      "gender": "woman",
+      "type": "jackets",
+      "id": 18
+    },
+    {
+      "title": "Куртка",
+      "description": "Mango / Куртка - WHITE",
+      "price": "6361",
+      "img": "https://images.wbstatic.net/big/new/14330000/14331252-1.jpg",
+      "comments": [],
+      "gender": "woman",
+      "type": "jackets",
+      "id": 19
+    }
+  ],
+  "users": [
+    {
+      "name": "Muras",
+      "lastName": "Abdumomunov",
+      "address": "фрунзе",
+      "img": "",
+      "email": "muras@gmail.com",
+      "password": "123",
+      "cart": [],
+      "id": 1
+    },
+    {
+      "name": "baimyrza beishenaliev",
+      "lastName": "beishenaliev",
+      "address": "Frunze 214b,3",
+      "img": "",
+      "email": "baimyrzabeishenaliev@gmail.com",
+      "password": "123",
+      "cart": [],
+      "id": 2
+    }
+  ],
+  "profile": {
+    "name": "Muras",
+    "lastName": "Abdumomunov",
+    "address": "фрунзе",
+    "img": "",
+    "email": "muras@gmail.com",
+    "password": "123",
+    "cart": [],
+    "id": 1
+  }
+}
